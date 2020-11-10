@@ -1,3 +1,8 @@
 {"users":
-[{"name":"Ivan","age":25,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/1.jpg","gender":"female"}]
+[{"name":"Ivanka","age":25,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/1.jpg","gender":"female"},
+ {"name":"John","age":45,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/2.jpg","gender":"male"},
+ {"name":"Fedor","age":44,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/3.jpg","gender":"male"},
+ {"name":"Jack","age":13,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/4.jpg","gender":"male"},
+ {"name":"Jane","age":25,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/5.jpg","gender":"female"},
+ {"name":"Niklaus","age":25,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/3.jpg","gender":"male"}]
 }
