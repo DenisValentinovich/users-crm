@@ -1,8 +1,8 @@
 {"users":
-[{"name":"Ivanka","age":25,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/1.jpg","gender":"female"},
- {"name":"John","age":45,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/2.jpg","gender":"male"},
- {"name":"Fedor","age":44,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/3.jpg","gender":"male"},
- {"name":"Jack","age":13,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/4.jpg","gender":"male"},
- {"name":"Jane","age":25,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/5.jpg","gender":"female"},
- {"name":"Niklaus","age":25,"img":"https://tocode.ru/static/c/vue-pro/assets/userCRM/3.jpg","gender":"male"}]
+[{"name":"Ivanka","age":25,"img":"https://i0.wp.com/prostolike.net/wp-content/uploads/2020/07/eb3fa351d40b7cc1d2b406af660267d0-ivanka-trump-gala.jpg?w=679&ssl=1","gender":"female"},
+ {"name":"John","age":45,"img":"https://newhaircutstyle.com/wp-content/uploads/2018/12/Actor-John-Krasinski-style-Haircut-20187.jpg","gender":"male"},
+ {"name":"Fedor","age":44,"img":"https://funik.ru/wp-content/uploads/2020/03/d52fdd4dbccc7056ab22.jpg","gender":"male"},
+ {"name":"Jack","age":13,"img":"https://i08.fotocdn.net/s127/7bb8a8a78843ef0f/user_l/2883005470.jpg","gender":"male"},
+ {"name":"Jane","age":25,"img":"https://i.pinimg.com/736x/2b/54/d7/2b54d769245c6157d5381409b6c3b151--jane-levy-short-necklace.jpg","gender":"female"},
+ {"name":"Niklaus","age":25,"img":"https://lh5.googleusercontent.com/-nepxj00KVhY/TXylgggKnvI/AAAAAAAAAIk/BKdaGYud0GA/s1600/niklaus_wirth_big.jpg","gender":"male"}]
 }
